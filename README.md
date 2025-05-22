@@ -1,6 +1,6 @@
-#Neural Network Using Only Numpy</br>
-The objective of this project was to develop a simple program capable of recognizing handwritten digits, similar to those one would find on handwritten checks. 
-Utilizing basic mathematics and coding principles rather than advanced AI tools, I built this application using Python and the NumPy library
+# Neural Network Using Numpy
+
+The objective of this project was to develop a simple program capable of recognizing handwritten digits, similar to those one would find on handwritten checks. Utilizing basic mathematics and coding principles rather than advanced AI tools, I built this application using Python and the NumPy library
 
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/0.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/1.png?raw=true)</br>
