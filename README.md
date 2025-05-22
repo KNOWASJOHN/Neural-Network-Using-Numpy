@@ -13,7 +13,6 @@ Utilizing basic mathematics and coding principles rather than advanced AI tools,
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/9.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/10.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/11.png?raw=true)</br>
-Predictions
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/12.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/13.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/14.png?raw=true)</br>
