@@ -7,7 +7,7 @@ Improrting Dataset
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/1.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/2.png?raw=true)</br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/3.png?raw=true)</br>
-Splitting Train and Test Dataset
+<br>Splitting Train and Test Dataset<br>
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/4.png?raw=true)</br>
 Weight And Bias Initialization
 ![image alt](https://github.com/KNOWASJOHN/Neural-Network-Using-Numpy/blob/main/5.png?raw=true)</br>
